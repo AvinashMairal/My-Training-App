@@ -17,8 +17,7 @@ Before running the app, ensure that you have the following prerequisites install
 
    # Screenshots
    
-![home-screen](https://github.com/user-attachments/assets/501a1951-0976-4c03-a415-46e7a05a51f
-![filter-screen](https://github.com/user-attachments/assets/ad25e940-98ad-47c0-9bfd-e0d8dfa36904)
+![home-screen](https://github.com/user-attachments/assets/d1959702-0220-4e61-9f5a-bc2ef7217853)![filter-screen](https://github.com/user-attachments/assets/ad25e940-98ad-47c0-9bfd-e0d8dfa36904)
 ![filtered-home-screen](https://github.com/user-attachments/assets/b7b8b7ff-f2c5-4d02-be9d-037512ca3aac)
 ![details-screen](https://github.com/user-attachments/assets/080f1100-8b77-4f46-a0fa-ddb555713f96)
 ![show-more-popup](https://github.com/user-attachments/assets/c6f0745e-b8c0-469c-834f-d3f7ef602377)

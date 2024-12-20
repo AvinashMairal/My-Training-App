@@ -17,12 +17,12 @@ Before running the app, ensure that you have the following prerequisites install
 
    # Screenshots
    
-![home-screen](https://github.com/user-attachments/assets/d1959702-0220-4e61-9f5a-bc2ef7217853)![filter-screen](https://github.com/user-attachments/assets/ad25e940-98ad-47c0-9bfd-e0d8dfa36904)
-![filtered-home-screen](https://github.com/user-attachments/assets/b7b8b7ff-f2c5-4d02-be9d-037512ca3aac)
-![details-screen](https://github.com/user-attachments/assets/080f1100-8b77-4f46-a0fa-ddb555713f96)
-![show-more-popup](https://github.com/user-attachments/assets/c6f0745e-b8c0-469c-834f-d3f7ef602377)
-![drawer](https://github.com/user-attachments/assets/006240c7-621a-48b0-866f-855721e22dfe)
 
+![page-1](https://github.com/user-attachments/assets/a114a470-a381-438e-a50a-6d687a25edd6)
+
+![page-2](https://github.com/user-attachments/assets/e18dab7a-d4a6-46bb-baf6-636aba662e9e)
+
+![page-3](https://github.com/user-attachments/assets/ae02edee-9b62-4263-b1bb-997380ae5015)
 
 
 

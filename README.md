@@ -1,4 +1,4 @@
-# My Trainings App
+# My Training App
 
 ## Getting Started
 
@@ -11,17 +11,25 @@ Before running the app, ensure that you have the following prerequisites install
 2. Android Studio / Visual Studio Code
 3. Device or Emulator
 4. git clone https://github.com/your-username/your-flutter-app.git
-   cd your-flutter-app
-5. flutter pub get
-6. flutter run
+5. cd your-flutter-app
+6. flutter pub get
+7. flutter run
+
+   # Screenshots
+   
+![home-screen](https://github.com/user-attachments/assets/501a1951-0976-4c03-a415-46e7a05a51f
+![filter-screen](https://github.com/user-attachments/assets/ad25e940-98ad-47c0-9bfd-e0d8dfa36904)
+![filtered-home-screen](https://github.com/user-attachments/assets/b7b8b7ff-f2c5-4d02-be9d-037512ca3aac)
+![details-screen](https://github.com/user-attachments/assets/080f1100-8b77-4f46-a0fa-ddb555713f96)
+![show-more-popup](https://github.com/user-attachments/assets/c6f0745e-b8c0-469c-834f-d3f7ef602377)
+![drawer](https://github.com/user-attachments/assets/006240c7-621a-48b0-866f-855721e22dfe)
 
 
 
 
 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,

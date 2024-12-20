@@ -25,11 +25,9 @@ Before running the app, ensure that you have the following prerequisites install
 ![page-3](https://github.com/user-attachments/assets/ae02edee-9b62-4263-b1bb-997380ae5015)
 
 
-
-
 #  Download the file from URL below
 
-[a link](https://install.appcenter.ms/users/mairalavinash-gmail.com/apps/training-app/distribution_groups/public/releases/1)
+[download apk file](https://install.appcenter.ms/users/mairalavinash-gmail.com/apps/training-app/distribution_groups/public/releases/1)
 
 
 

@@ -1,12 +1,24 @@
-# my_trainings_app
-
-A new Flutter project.
+# My Trainings App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A new Flutter project.
 
-A few resources to get you started if this is your first Flutter project:
+Running Instructions:
+
+Before running the app, ensure that you have the following prerequisites installed:
+1. Flutter SDK (used version - 3.27.1)
+2. Android Studio / Visual Studio Code
+3. Device or Emulator
+4. git clone https://github.com/your-username/your-flutter-app.git
+   cd your-flutter-app
+5. flutter pub get
+6. flutter run
+
+
+
+
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
